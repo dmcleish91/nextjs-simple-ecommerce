@@ -10,7 +10,7 @@ export default function MainHeader() {
 			</Link>
 
 			<ul>
-				<Link href={'/'} className='text-3xl'>
+				<Link href={'/shopping'} className='text-3xl'>
 					<MdShoppingCart />
 				</Link>
 			</ul>

@@ -4,7 +4,7 @@ import { Product } from '../../store/data';
 
 export default function ProductItem({ product }: { product: Product }) {
 	return (
-		<Card sx={{ maxWidth: 345 }}>
+		<Card sx={{ width: 345 }}>
 			<CardMedia component='img' height='140' image={product.image} alt='green iguana' />
 			<CardContent>
 				<Typography gutterBottom variant='h5' component='div'>
