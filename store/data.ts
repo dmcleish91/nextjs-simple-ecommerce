@@ -7,7 +7,7 @@ export const productData: Product[] = [
 		title: 'KitKat Bar',
 		price: 2.33,
 	},
-	{ id: '4', image: 'https://cdn.trendhunterstatic.com/phpthumbnails/321/321306/321306_1_600.jpeg?auto=webp', title: 'Beat Chips', price: 6.66 },
+	{ id: '4', image: 'https://cdn.trendhunterstatic.com/phpthumbnails/321/321306/321306_1_600.jpeg?auto=webp', title: 'Beet Chips', price: 6.66 },
 	{
 		id: '5',
 		image: 'https://static.wixstatic.com/media/f9d43e_4809a85ad8d74efc9c78049733967435~mv2.jpg/v1/fill/w_476,h_318,al_c,lg_1,q_80,enc_auto/f9d43e_4809a85ad8d74efc9c78049733967435~mv2.jpg',
